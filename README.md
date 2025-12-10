@@ -41,3 +41,32 @@ print("Total Marks :", total)
 print("Percentage  :", percentage, "%")
 print("Grade       :", grade)
 print("===============================================")
+Enter Student Name: BHAVITHRA J
+Enter Roll Number: 24SBCS016
+Enter Course Name: COMPUTER SCIENCE
+
+Enter marks out of 100:
+
+Subject 1: 97
+Subject 2: 95
+Subject 3: 98
+Subject 4: 99
+Subject 5: 90
+
+===============STUDENT MARKSHEET================
+Name        : BHAVITHRA J
+Roll Number : 24SBCS016
+Course      : COMPUTER SCIENCE
+-----------------------------------------------
+Subject 1   : 97
+Subject 2   : 95
+Subject 3   : 98
+Subject 4   : 99
+Subject 5   : 90
+-----------------------------------------------
+Total Marks : 479
+Percentage  : 95.8 %
+Grade       : A+
+===============================================
+
+
